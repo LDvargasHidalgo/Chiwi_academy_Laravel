@@ -9,6 +9,10 @@ Chiwi Acádemy is a software development collective that manages online events s
 ![Captura de pantalla de 2022-04-22 17-47-46](https://user-images.githubusercontent.com/91891348/165105917-95082373-6ff2-4bdc-b236-a129e0e9e900.png)
 76.png)
 
+# Usuario para ingreasar a la plataforma
+git push -u origin main
+password 12345678
+
 # How to clone the repository?
 * https://github.com/dianachavezr/ChiwiAcademy.git
 * composer install
